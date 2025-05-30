@@ -13,6 +13,7 @@ body{
 
 #mainContainer{
     display: flex;
+    gap: 16px;
 }
 
 #colorPicker{
